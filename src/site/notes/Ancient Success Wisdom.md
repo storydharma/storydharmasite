@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/ancient-success-wisdom/"}
 ---
 
-[[Excalidraw/Panchatantra\|Panchatantra]]
+[[Panchatantra\|Panchatantra]]
 [[Mahabharatha\|Mahabharatha]]
 [[Ramayana\|Ramayana]]
