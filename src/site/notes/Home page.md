@@ -3,7 +3,7 @@
 ---
 
 
-[[Ancient Success Wisdom \| Wisdom]]
+[[Ancient Success Wisdom\|Ancient Success Wisdom]]
 # Become a super star @ work with Ancient wisdom
 #### "26 timeless lessons from the Panchatantra—master office politics, build real influence, and win without selling your soul."
 ---
