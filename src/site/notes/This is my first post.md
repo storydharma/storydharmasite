@@ -3,5 +3,7 @@
 ---
 
 [[first post\|first post]]
+[[Excalidraw/First diagram\|First diagram]]
+
 
 
