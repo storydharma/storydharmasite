@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/panchatantra/"}
 ---
 
+# Dharmic Success Wisdom from Panchatantra
+
+---
 
 # Table of Content
 
