@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/why-you-should-read-this-series/"}
 ---
 
-
-
-I used to think that working hard and being talented were enough to do well in the corporate world. I was proved wrong by DeceptiveGlow.
+![Siddharth.jpeg](/img/user/Siddharth.jpeg)I used to think that working hard and being talented were enough to do well in the corporate world. I was proved wrong by DeceptiveGlow.
 
 But who am I? My name is Siddharth*. I’m one of the leaders at DeceptiveGlow today. But when I first joined, I was a beginner with big dreams. I came from a family that taught me the importance of working hard, using my skills, and doing the right thing. When I started, I was shocked to see office politics, people doing unfair things, and coworkers talking badly behind each other’s backs. My growth stopped. I didn’t want to lower myself to play these dirty games. I couldn’t fix the system because all the power was with the wrong people. I was close to losing who I was.
 
