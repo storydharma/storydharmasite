@@ -14,3 +14,5 @@ Then, I found the [[Panchatantra\|Panchatantra]] through my mentor, Dr. Vishnush
 I earned a lot of respect, got noticed, grew in my job, gained power, and became successful. This wisdom series is about what I learned from the Panchatantra and how you can use it in your work life too.
 
 * Siddharth is a fictional persona based on real life people I ([[About the author\|About the author]]) meet and mentor every day
+
+[[Why did we write this series?\|Why did we write this series?]]
