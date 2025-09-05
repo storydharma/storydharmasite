@@ -3,6 +3,7 @@
 ---
 
 
+
 # Why did we write this series?
 
 We wrote this series for awesome, hardworking folks just like you—whether you're just starting out or halfway through the climb—because:
@@ -12,3 +13,5 @@ We wrote this series for awesome, hardworking folks just like you—whether you'
 2.You can win the corporate game and sleep well at night (yes, your conscience can come too!)
 
 3.The world needs more good people in charge—imagine what you could do with some real power!
+
+[[How to benefit from this series?\|How to benefit from this series?]]
