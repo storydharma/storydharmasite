@@ -10,7 +10,7 @@
 
 ## Ready to Rise at Work?
 
-### 1.  [Tap to Take our FREE assessment](https://storydharma.com/interactiveassessments/assessment.html)
+### 1.  [Tap to Take our FREE assessment](https://storydharma.itch.io/dharmic-assessment)
 
 ### 2.  Read this series
 
