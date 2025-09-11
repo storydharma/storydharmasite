@@ -56,3 +56,6 @@ A skilled driver is samarthaḥ (he knows how to use that power effectively).
 So, the King is able to point out why the Jackal was ousted in the first place. It is not just competence. But effectiveness. The Jackal has the potential, but the King wants fit for purpose or effectiveness. This is one up on Western management ideas. 
 
 Ok, let us look at the next example.
+
+[[Example 1\|Example 1]] | [[Example 2\|Example 2]] | [[Example 3\|Example 3]]
+[[Panchatantra\|Back to Main TOC]] | [[Your Journey begins here\|Back to Part-1 TOC]]
