@@ -3,4 +3,11 @@
 ---
 
 
-[![Pasted image 20250911155402.png](/img/user/Pasted%20image%2020250911155402.png)]([[Panchatantra\|Panchatantra]])
+# Part-1: Journey
+
+[[What is Panchatantra?\|What is Panchatantra?]]
+[[Is Panchatantra relevant today?\|Is Panchatantra relevant today?]]
+[[What does Panchatantra contain?\|What does Panchatantra contain?]]
+[[How our lessons are Different?\|How our lessons are Different?]]
+
+
