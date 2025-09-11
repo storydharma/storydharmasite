@@ -14,7 +14,7 @@
 
 ![workplace.png](/img/user/workplace.png)
 
-<img src="workplace.jpg" alt="Workplace" usemap="#workmap">  
+<img src="workplace.png" alt="Workplace" usemap="#workmap">  
   
 <map name="workmap">  
   <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">  
