@@ -5,6 +5,9 @@
 
 # Part-1: Journey
 
+![map.png](/img/user/map.png)
+
+
 [[What is Panchatantra?\|What is Panchatantra?]]
 [[Is Panchatantra relevant today?\|Is Panchatantra relevant today?]]
 [[What does Panchatantra contain?\|What does Panchatantra contain?]]
