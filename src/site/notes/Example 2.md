@@ -26,3 +26,6 @@ The same Jackal we saw earlier is now  starting to throw some punches back to th
 If you are a leader , this is a very simple framework to retain your employees. If you are an individual contributor , open you eyes and ears and appreciate the difficult balance your managers are trying to get done in the world of ‘curve-fitting’ appraisals.
 
 OK, we have seen two examples on the ‘Skill-will’ matrix and retaining employees. Now, let us look at one on ‘executing an Idea’ or ‘Project Management’.
+
+[[Example 1\|Example 1]] | [[Example 2\|Example 2]] | [[Example 3\|Example 3]]
+[[Panchatantra\|Back to Main TOC]] | [[Your Journey begins here\|Back to Part-1 TOC]]
