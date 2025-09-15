@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/mitrabheda-story/"}
 ---
+
 This is different
 
-![[Mitra bhedha Part 1.svg]]
+
