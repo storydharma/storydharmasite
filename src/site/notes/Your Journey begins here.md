@@ -13,6 +13,6 @@
 [[Is Panchatantra relevant today?\|Is Panchatantra relevant today?]]
 [[What does Panchatantra contain?\|What does Panchatantra contain?]]
 [[How our lessons are Different?\|How our lessons are Different?]]
-[[Mitrabheda Story\|Mitrabheda Story]]
+[[Excalidraw/Mitra bhedha Part 1\|Mitra bhedha Part 1]]
 
 
