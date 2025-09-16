@@ -4,7 +4,7 @@
 
 
 # Why should you read this series?
-![Siddharth.jpeg](/img/user/Siddharth.jpeg)
+![Siddharth.jpeg](/img/user/images/Siddharth.jpeg)
 
 I used to think that working hard and being talented were enough to do well in the corporate world. I was proved wrong by DeceptiveGlow.
 
