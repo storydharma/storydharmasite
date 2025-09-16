@@ -9,7 +9,7 @@
   <a href="https://www.amazon.in/Panchatantra-code-Become-super-star-ebook/dp/B0FHRPC89C/" target="_blank">Buy our book</a>
 </p>
 
-[[Ancient Success Wisdom\|Ancient Success Wisdom]]
+<center>[[Ancient Success Wisdom\|FREE Articles]]</center>
 
 
 
