@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-our-lessons-are-different/"}
+{"dg-publish":true,"permalink":"/how-our-lessons-are-different/","hide":true}
 ---
 
 ## How our lessons are different?

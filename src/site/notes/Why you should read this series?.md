@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/why-you-should-read-this-series/"}
+{"dg-publish":true,"permalink":"/why-you-should-read-this-series/","hide":true}
 ---
+
 
 # Why should you read this series?
 ![Siddharth.jpeg](/img/user/Siddharth.jpeg)

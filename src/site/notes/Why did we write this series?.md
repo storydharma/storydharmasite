@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-did-we-write-this-series/"}
+{"dg-publish":true,"permalink":"/why-did-we-write-this-series/","hide":true}
 ---
 
 

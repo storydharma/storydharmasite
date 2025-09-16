@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-is-panchatantra/"}
+{"dg-publish":true,"permalink":"/what-is-panchatantra/","hide":true}
 ---
 
 # What is Panchatantra?

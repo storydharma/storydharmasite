@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/about-the-author/"}
 ---
 
+
 ![Pasted image 20250903085736.png](/img/user/Pasted%20image%2020250903085736.png)
 
 Sriram Venkatakrishnan is the creator of StoryDharma — where ancient Indian wisdom meets modern mediums like AI, game design, and storytelling.

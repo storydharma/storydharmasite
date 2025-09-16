@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/example-1/"}
+{"dg-publish":true,"permalink":"/example-1/","hide":true}
 ---
 
 ## Example #1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mitra-bhedha-framing-story/"}
+{"dg-publish":true,"permalink":"/mitra-bhedha-framing-story/","hide":true}
 ---
 
 # This is the framing story of the first tantra where a cunning, back-biting jackal separates the growing friendship between the Lion and the bull. 

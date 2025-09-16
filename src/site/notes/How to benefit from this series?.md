@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-benefit-from-this-series/"}
+{"dg-publish":true,"permalink":"/how-to-benefit-from-this-series/","hide":true}
 ---
 
 ![image.png](/img/user/image.png)

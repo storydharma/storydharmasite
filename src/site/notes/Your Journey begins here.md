@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/your-journey-begins-here/"}
+{"dg-publish":true,"permalink":"/your-journey-begins-here/","hide":true}
 ---
 
 - 

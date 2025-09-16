@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-does-panchatantra-contain/"}
+{"dg-publish":true,"permalink":"/what-does-panchatantra-contain/","hide":true}
 ---
 
 What does the Panchatantra contain?

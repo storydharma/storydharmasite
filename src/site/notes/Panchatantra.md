@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/panchatantra/"}
+{"dg-publish":true,"permalink":"/panchatantra/","hide":true}
 ---
 
 

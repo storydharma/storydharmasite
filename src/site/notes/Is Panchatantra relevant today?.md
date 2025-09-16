@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/is-panchatantra-relevant-today/"}
+{"dg-publish":true,"permalink":"/is-panchatantra-relevant-today/","hide":true}
 ---
 
 # Is Panchatantra relevant today?

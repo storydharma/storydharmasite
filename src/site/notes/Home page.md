@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","hide":true,"tags":["gardenEntry"]}
 ---
 
 ![1.png|600](/img/user/images/1.png)
