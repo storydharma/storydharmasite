@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/readers-review/","hide":true}
 ---
 
+# Readers' Reviews
+
 > [!quote]
 The book is a must read for anyone working in a corporate setting! It's relevant if you're just starting out in your career or higher up the ladder as well.
 > 
@@ -15,3 +17,8 @@ The book is a must read for anyone working in a corporate setting! It's relevant
 
 > [!quote]
 > If you're someone working in a corporate setting or even more so, if you're someone looking to grow in your career, this book will give you actionable steps you could take to see real change in terms of your overall growth in your organisation.
+
+<p style="text-align:center;">
+  <a href="https://www.amazon.in/Panchatantra-code-Become-super-star-ebook/dp/B0FHRPC89C/" target="_blank">Buy our book</a> | 
+<a href="/not-a-book/" >Is it that good?</a>
+</p>
