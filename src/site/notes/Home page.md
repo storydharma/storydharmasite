@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
-![1.png](/img/user/images/1.png)
+![1.png|600](/img/user/images/1.png)600
 
 <center><h1>The Panchatantra code book</h1></center>
 <p style="text-align:center;">
