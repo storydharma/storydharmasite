@@ -8,3 +8,6 @@ When you purchase the book and you are not satisfied, if you write to us to  sto
 ## No questions asked.
 
 
+<p style="text-align:center;">
+  <a href="https://www.amazon.in/Panchatantra-code-Become-super-star-ebook/dp/B0FHRPC89C/" target="_blank">Buy our book</a> | 
+</p>
