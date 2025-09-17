@@ -10,7 +10,7 @@
 
 ## Ready to Rise at Work?
 
-### 1.  [Tap to Take our FREE assessment](https://storydharma.my.canva.site/dharmic)
+### 1.  [Tap to Take our FREE assessment](quiz.html)
 
 ### 2.  [[Panchatantra\|Read this series]] or [Buy our book](https://www.amazon.in/Panchatantra-code-Become-super-star-ebook/dp/B0FHRPC89C)
 
