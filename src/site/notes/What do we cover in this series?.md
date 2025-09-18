@@ -12,7 +12,7 @@
 
 ### 1.  [Tap to Take our FREE assessment](https://interactive-ashen.vercel.app/quiz.html)
 
-### 2.  [[Panchatantra\|Read this series]] or [Buy our book](https://www.amazon.in/Panchatantra-code-Become-super-star-ebook/dp/B0FHRPC89C)
+### 2.  [[Panchatantra\|Read this series]] or [Buy our book](https://www.amazon.in/Panchatantra-code-Become-super-star-ebook/dp/B0FHRPC89C) (has exclusive content, easy , to support Indian knowledge systems for [[Pizza Price \| for the price of a Pizza]]) 
 
 ### 3.  Learn 26 powerful lessons
 
